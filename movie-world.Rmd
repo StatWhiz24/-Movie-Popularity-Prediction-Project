@@ -1,17 +1,3 @@
----
-output:
-
-  html_document:
-
-    smart: false
----
-
-It's Movie Time! 
-==========================================================================
-
-Susan Li
-
-April 7, 2017
 
 We are movie-goers, we have heavily relied on how many gold stars a movie gets before we decide whether we watch it or not. I have to admit that we miss good movies sometimes because some critics reviews are controversial, another time we regret after watching a movie because it was not what we expected.
 
@@ -240,4 +226,4 @@ This result is not bad, The results from test set are not far from the results o
 
 ### The End 
 
-I hope movie will be the same after I learn how to analyze movie data. Apprécier le film!
+I hope movie will be the same after I learn how to analyze movie data.
