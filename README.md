@@ -3,6 +3,7 @@
 ## Project Overview
 This project explores the relationship between various attributes of a movie and its popularity, as measured by the audience score. Using a dataset that combines information from Rotten Tomatoes and IMDB, we develop a multiple linear regression model to identify the key predictors of movie popularity. By doing so, we aim to understand which attributes make a movie more likely to resonate with audiences.
 
+# ![Movie Popularity Prediction Project](image_movie.webp)
 ## Data Description
 The dataset contains 651 randomly sampled movies released before 2016. Each row represents a movie, and each column represents a characteristic of that movie. Although the dataset allows us to generalize to a broader population of films, it's important to note that this study is observational. Due to the voluntary nature of rating and voting on platforms like IMDB and Rotten Tomatoes, potential biases may exist in the data.
 
